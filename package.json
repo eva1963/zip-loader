@@ -8,7 +8,7 @@
     "build": "webpack"
   },
   "keywords": [],
-  "author": "",
+  "author": "liuhuan",
   "license": "ISC",
   "devDependencies": {
     "loader-utils": "^1.2.3",
@@ -18,5 +18,13 @@
   },
   "dependencies": {
     "jszip": "^3.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eva1963/zip-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eva1963/zip-loader/issues"
+  },
+  "homepage": "https://github.com/eva1963/zip-loader#readme"
 }
