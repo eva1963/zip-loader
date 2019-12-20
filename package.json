@@ -1,5 +1,5 @@
 {
-  "name": "zip-loader",
+  "name": "@liuhuan/ziploader",
   "version": "1.0.0",
   "description": "provide webpack package",
   "main": "index.js",
